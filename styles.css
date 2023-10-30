@@ -204,8 +204,9 @@ main {
     max-width: 31rem;
     align-self: center;
     justify-self: center;
-    left: -5rem;
-    top: 5rem;
+    left: -20rem;
+    /* top: 1rem; */
+    transform: scale(2);
   }
 
   .desktopTop {
